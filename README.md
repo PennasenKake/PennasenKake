@@ -12,7 +12,9 @@ Ohjelmistotekniikan insinööri (AMK, Savonia 2026) Kuopion seudulta. Rakennan w
 | [Paska Vitsi Battle](https://paska-vitsi-battle-f.vercel.app) | Reaaliaikainen 1v1-selainpeli · **live** | React, Node.js, Socket.io |
 
 #### 🔭 Nyt työn alla
-Faktatutka – uutisväitteiden uskottavuusarvio näkyvillä lähteillä (Python, FastAPI, RAG).
+- **Data-analytiikka:** kannattavuusraportti pienyrityksen kulu- ja hintadatasta (Python, pandas, Power BI)
+- **Faktatutka:** uutisväitteiden uskottavuusarvio näkyvillä lähteillä (Python, FastAPI, RAG)
+
 
 #### 🧰 Osaaminen
 **Web:** React · JavaScript · Node.js · Python · FastAPI · MongoDB · SQL  
