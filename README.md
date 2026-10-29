@@ -8,7 +8,6 @@ Ohjelmistotekniikan insinööri (AMK, Savonia 2026) Kuopion seudulta. Rakennan w
 |---|---|---|
 | [Etähallittava infotaulu](https://github.com/PennasenKake/infotaulu) | Infotaulujärjestelmä SPR:lle, opinnäytetyö (4/5) | React, Node.js, MongoDB, Raspberry Pi, FastAPI |
 | [GlossTahko](https://github.com/PennasenKake/glosstahko-web) | Verkkosivusto nilsiäläiselle kauneudenhoitoalan yritykselle · **asiakasprojekti** · [glosstahko.fi](https://glosstahko.fi) | React, TypeScript, Vite, Vitest, Cloudflare Pages |
-
 | [Pakettipörinä](https://github.com/PennasenKake/Pakettiporina) | 3D-mobiilipeli lapsille | Unity, C#, Blender |
 | [Paska Vitsi Battle](https://paska-vitsi-battle-f.vercel.app) | Reaaliaikainen 1v1-selainpeli · **live** | React, Node.js, Socket.io |
 
